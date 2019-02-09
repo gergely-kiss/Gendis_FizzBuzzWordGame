@@ -1,4 +1,4 @@
-package uk.gergely.kiss.game.service;
+package uk.gergely.kiss.test;
 
 import static org.junit.Assert.fail;
 
@@ -6,6 +6,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import uk.gergely.kiss.game.GameConstants;
+import uk.gergely.kiss.game.service.WordGame;
 import uk.gergely.kiss.game.service.wordgame.impl.FizzBuzzWordGameImpl;
 import uk.gergely.kiss.game.service.wordgame.impl.FozzBozzWordGameImpl;
 import uk.gergely.kiss.game.service.wordgame.impl.IntegerStringRepresenter;
@@ -41,7 +42,6 @@ public class GameServiceTest {
 	public static final int TEST_CONSTRAIN_2 = 2;
 	public static final String TEST_KEYWORD_Y = "Two?";
 	
-
 	WordGame wg;
 
 	@Test

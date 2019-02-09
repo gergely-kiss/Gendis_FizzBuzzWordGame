@@ -7,9 +7,10 @@ package uk.gergely.kiss.game.service;
  *
  */
 public interface WordGame {
-	/** Method for returning the specific string representation of an integer
+	/**
+	 * Method for returning the specific string representation of an integer
 	 * 
-	 * @param int input 
+	 * @param int input
 	 * @return String representation of the input
 	 * 
 	 */

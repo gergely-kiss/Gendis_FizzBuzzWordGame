@@ -1,0 +1,8 @@
+uk\gergely\kiss\game\service\wordgame\impl\userdefined\UserDefinedWordGameRules.class
+uk\gergely\kiss\game\service\wordgame\impl\IntegerStringRepresenter.class
+uk\gergely\kiss\game\GameConstants.class
+uk\gergely\kiss\game\service\wordgame\impl\userdefined\UserDefinedWordGame.class
+uk\gergely\kiss\game\service\WordGame.class
+uk\gergely\kiss\utils\GameRuleValidator.class
+uk\gergely\kiss\game\service\wordgame\impl\FizzBuzzWordGameImpl.class
+uk\gergely\kiss\game\service\wordgame\impl\FozzBozzWordGameImpl.class
